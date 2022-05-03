@@ -48,3 +48,6 @@ layout: menu.njk
 
 15. **Mudslide**
     > Vodka, Kahlua, Baileys, milk
+
+16. **Cosmopolitan**
+    > Vodka, triple sec, lime juice, cranberry juice
