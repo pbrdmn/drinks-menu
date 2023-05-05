@@ -51,3 +51,6 @@ layout: menu.njk
 
 16. **Cosmopolitan**
     > Vodka, triple sec, lime juice, cranberry juice
+
+17. **Sex On The Beach**
+    > Vodka, triple sec, orange juice, cranberry juice
