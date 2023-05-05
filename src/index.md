@@ -4,53 +4,23 @@ layout: menu.njk
 ---
 # Cocktails
 
-1. **Espresso Martini**
-    > Vodka, Kahlua, espresso
+1. **Cosmopolitan**  
+    Vodka, triple sec, lime juice, cranberry juice
 
-2.  **Martini**
-    > Gin, dry vermouth
+2. **Espresso Martini**  
+    Vodka, Kahlua, espresso
 
-3.  **Vodka Martini**
-    > Vodka, dry vermouth, triple sec
+3. **Margarita**  
+    Tequila, triple sec, lime juice
 
-4.  **Apple Martini**
-    > Vodka, apple liqueur
+4. **Mojito**  
+    White rum, lime, mint
 
-5.  **Lychee Mojito**
-    > White rum, lychee liqueur
+5. **Mudslide**  
+    Vodka, Kahlua, Baileys, milk
 
-6. **Lime Mojito**
-    > White rum, lime, mint
+6. **Sex On The Beach**  
+    Vodka, triple sec, orange juice, cranberry juice
 
-7. **Black Russian**
-    > Vodka, Kahlua
-
-8. **Old Fashioned**
-    > Whisky, bitters, sugar
-
-9. **Sidecar**
-    > Cognac, triple sec, lemon juice
-
-10. **Negroni**
-    > Gin, sweet vermouth, campari
-
-11. **Daiquiri**
-    > White rum, lime juice, simple syrup
-
-12. **Kamikaze**
-    > Vodka, triple sec, lime juice
-
-13. **Gimlet**
-    > Gin, lime juice, lime slice
-
-14. **Margarita**
-    > Tequila, triple sec, lime juice
-
-15. **Mudslide**
-    > Vodka, Kahlua, Baileys, milk
-
-16. **Cosmopolitan**
-    > Vodka, triple sec, lime juice, cranberry juice
-
-17. **Sex On The Beach**
-    > Vodka, triple sec, orange juice, cranberry juice
+7. **Whisky Sidecar**  
+    Whisky, triple sec, lemon juice
